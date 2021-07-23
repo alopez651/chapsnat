@@ -29,6 +29,7 @@ export default function BottomTabNavigator({ navigation, route }) {
     >
       <BottomTab.Screen
         name="Friends"
+        fontFamily= 'Futura'
         component={FriendsScreen}
         options={{
           title: "Your Friends",
@@ -37,7 +38,7 @@ export default function BottomTabNavigator({ navigation, route }) {
           ),
         }}
       />
-      <BottomTab.Screen
+      <BottomTab.Screen 
         name="Home"
         component={HomeScreen}
         options={{
