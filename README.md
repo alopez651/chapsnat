@@ -3,7 +3,7 @@
 # For this mobile app/web, you are able to chat "message" with your frinds. 
 Mobile App
 
-<img src="https://user-images.githubusercontent.com/81542559/126737813-eb7ae792-a33a-451d-9376-f84bd289bad1.PNG" width="200">
+<img src="https://user-images.githubusercontent.com/81542559/126737813-eb7ae792-a33a-451d-9376-f84bd289bad1.PNG" width="300">
 
 Web 
 
